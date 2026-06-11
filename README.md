@@ -2,6 +2,9 @@
 
 Ce projet vise à analyser les ventes mondiales de jeux vidéo à partir du dataset VGChartz 2024.
 
+**Avant toute chose, il est important de rappeler que pour qu'un jeu explose, il faut qu'il soit effectivement bien**
+Un mauvais jeu, peut importe d'ou il vient, ne fera pas spécialement succès
+
 **Objectif** : Prédire les ventes totales d'un jeu en fonction de sa plateforme, son genre et son éditeur.
 
 **Dataset** : vgchartz-2024.csv — données de ventes mondiales de jeux vidéo.

@@ -60,4 +60,6 @@ Notre doute sur la domination d'Activision était donc fondé — dans le domain
 
 ---
 
-## 📁 Structure du projet
+## 🚀 Lancer le projet
+1. Clone le repo
+2. Ouvre le notebook dans Jupyter ou directement sur Google Colab.

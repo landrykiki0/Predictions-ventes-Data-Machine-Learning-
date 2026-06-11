@@ -13,7 +13,8 @@ Ce projet vise à analyser les ventes mondiales de jeux vidéo à partir du data
 En regardant les ventes totales par éditeur, c'est **Activision** qui domine en volume global. 
 Le genre **Sport** arrive en tête des ventes mondiales par catégorie. 
 Et côté plateforme, **PlayStation** est la famille de consoles qui génère le plus de ventes au niveau mondial.
-![Description de l'image](Visualisation Power BI.png)
+
+![Visualisation globale](https://github.com/landrykiki0/Predictions-ventes-Data-Machine-Learning-/blob/5ccc4a61bca793751cfe7f0e3ee04f5d00f53e8a/Visualisation%20Power%20BI.png)
 
 On se dirait donc que pour faire le plus de ventes, il serait plus simple de sortir un jeu de sport, sur PlayStation et édité par Activision. 
 Cependant, cette analyse était globale . Activision domine peut-être juste parce qu'ils ont édité beaucoup de jeux. 
